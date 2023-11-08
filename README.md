@@ -9,13 +9,15 @@
 3. systèmes de fichiers . 
 
 ### côté client - Navigateur Web
-1. HTML 
+1. [HTML](/index.html)
 2. CSS 
 3. JS
 
 ## BASES HTML
-[Navigation URL de base](/navigation.md)
+1. les éléments du <head>.
+2. [Navigation URL de base](/navigation.md)
+3. [navigation réactive](/url-parametres-requetes.md)
 
 ## Considérations juridiques
-RGAA
+1. RGAA
 

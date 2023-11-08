@@ -38,6 +38,3 @@ Dans le contexte de la navigation dans une page web, plusieurs techniques et él
 6. **API History (API Historique) :** L'API History HTML5 vous permet de manipuler l'historique du navigateur et de permettre une navigation plus sophistiquée dans les applications monopage. Elle est généralement utilisée avec des frameworks JavaScript pour gérer la navigation.
 
 Ces techniques offrent différentes façons de naviguer au sein de pages web, que ce soit pour la navigation au sein de la page ou entre les pages. Le choix de la méthode dépend de votre cas d'utilisation spécifique et de la technologie que vous utilisez pour construire votre site web ou application web.
-```
-
-You can copy and paste this Markdown content into a .md file for reference.
