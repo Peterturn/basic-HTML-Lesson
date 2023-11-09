@@ -21,3 +21,5 @@
 ## Considérations juridiques
 1. RGAA
 
+### VSCODE
+ [site web VSCODE](https://code.visualstudio.com/download)
